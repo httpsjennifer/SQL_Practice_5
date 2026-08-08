@@ -1,6 +1,6 @@
 # Customer Segementation | ![Status](https://img.shields.io/badge/Status:-in%20progress-purple?style=for-the-badge)
 
-¡[MySQL](https://img.shields.io/badge/Database-SQL-pink)
+![MySQL](https://img.shields.io/badge/Database-SQL-pink)
 
 ## What is my project for?
 This project is to help a company track spend frequency and locations
