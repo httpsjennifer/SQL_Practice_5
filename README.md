@@ -6,7 +6,7 @@
 This project is to help a company track spend frequency and locations
 
 ## How can users get started with the project
-**Prerequisties:** MySQL
+**Prerequisites:** MySQL
 ### QUICK DEPLOYMENT
  1. Clone the respitory
  2. 
