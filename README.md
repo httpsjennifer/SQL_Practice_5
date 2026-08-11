@@ -3,7 +3,7 @@
 ![MySQL](https://img.shields.io/badge/Database-SQL-pink)
 
 ## What is my project for?
-This project is to help a company track spend frequency and locations
+This project is to help a Joel's Pizzeria track spend frequency and locations. This is a pizzeria from a video game
 
 ## How can users get started with the project
 **Prerequisites:** MySQL
